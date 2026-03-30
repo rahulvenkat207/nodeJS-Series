@@ -1,6 +1,6 @@
 import touch from "./utils/touch.js";
 import cat from "./utils/cat.js";
-import deleteFile from "./utils/delete.js";
+
 
 // Task 2: Log process info
 console.log("Node version:", process.version);
@@ -18,9 +18,6 @@ if (command && path) {
       break;
     case "cat":
       cat(path);
-      break;
-    case "delete":
-      deleteFile(path);
       break;
     default:
       console.log("Unknown command");
