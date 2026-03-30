@@ -9,5 +9,18 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulvenkat207/nodeJS-Series.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahulvenkat207/nodeJS-Series/issues"
+  },
+  "homepage": "https://github.com/rahulvenkat207/nodeJS-Series#readme",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
 }
