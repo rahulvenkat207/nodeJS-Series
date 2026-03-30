@@ -1,9 +1,10 @@
 {
-  "name": "js",
+  "name": "nodejs-series",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000n\u0000o\u0000d\u0000e\u0000J\u0000S\u0000-\u0000S\u0000e\u0000r\u0000i\u0000e\u0000s\u0000\r\u0000 \u0000",
+  "description": "Learning Node.js from scratch",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
