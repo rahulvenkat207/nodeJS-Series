@@ -2,6 +2,7 @@
   "name": "nodejs-series",
   "version": "1.0.0",
   "description": "Learning Node.js from scratch",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
